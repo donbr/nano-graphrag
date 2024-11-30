@@ -373,8 +373,7 @@ You can refer to `nano_graphrag.base` to see detailed interfaces for each compon
 
 ## FAQ
 
-- contains esseential information on updating Ollama Modelfile
-- creating new `qwen2:ctx32k` model required to use Ollama to generate nodes and relationships
+- contains esseential information on how to update Ollama Modelfile to support the 32k context window required by nano-graphrag
 
 Check [FAQ](./docs/FAQ.md).
 
