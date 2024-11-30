@@ -181,3 +181,10 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+nano_graphrag_cache*/
+examples/dickens/
+examples/graph_visualization.html
+examples/graph_json.js
+Modelfile
+.python-version
+examples/graphrag_base_validation_TEST/
